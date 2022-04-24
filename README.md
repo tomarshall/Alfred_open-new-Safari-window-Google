@@ -1,4 +1,4 @@
-# Alfred_open-new-safari-window
+# Alfred_open-new-safari-window-Google
 ### An Alfred workflow that opens a new Safari window and Googles whatever you type after the keyword.
 
 This Alfred workflow opens a new Safari tab with keyword "ns", and Google searches whatever you type after "ns".
